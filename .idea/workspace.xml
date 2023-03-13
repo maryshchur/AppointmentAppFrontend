@@ -1,9 +1,167 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7b383894-79c3-4394-bcbe-b4667e91d2ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="1kTmeRhMUnzljmnz9XuZJYqhXRn" />
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_interpreter_path" value="node" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/maric/WebStormProjects/TBRM.client&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Program Files\\JetBrains\\WebStorm 2022.1.2\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src\components\utils" />
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src\utils" />
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src\components\allTeacher" />
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src\components\calendar" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src\fonts" />
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src" />
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src\components" />
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src\service" />
+      <recent name="C:\Users\maric\WebStormProjects\appointment_app.client\src\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b383894-79c3-4394-bcbe-b4667e91d2ef" name="Default Changelist" comment="" />
+      <created>1605733050738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605733050738</updated>
+      <workItem from="1605733055688" duration="5482000" />
+      <workItem from="1605993301180" duration="1709000" />
+      <workItem from="1606067347374" duration="5831000" />
+      <workItem from="1606157650509" duration="6613000" />
+      <workItem from="1606247925988" duration="590000" />
+      <workItem from="1606328710144" duration="3469000" />
+      <workItem from="1606554529210" duration="3729000" />
+      <workItem from="1606686800773" duration="2909000" />
+      <workItem from="1606772520159" duration="4360000" />
+      <workItem from="1607023608502" duration="1196000" />
+      <workItem from="1607192421183" duration="1462000" />
+      <workItem from="1607247787817" duration="23978000" />
+      <workItem from="1607380661036" duration="12775000" />
+      <workItem from="1607801694046" duration="32653000" />
+      <workItem from="1608509465680" duration="8835000" />
+      <workItem from="1608624967966" duration="5923000" />
+      <workItem from="1616349339804" duration="93000" />
+      <workItem from="1616351046109" duration="1457000" />
+      <workItem from="1625312844657" duration="702000" />
+      <workItem from="1631009424456" duration="2163000" />
+      <workItem from="1637772169758" duration="1140000" />
+      <workItem from="1638294066809" duration="1236000" />
+      <workItem from="1639071726440" duration="6254000" />
+      <workItem from="1639214044284" duration="61382000" />
+      <workItem from="1639385541534" duration="42000" />
+      <workItem from="1650234378809" duration="8264000" />
+      <workItem from="1671107301184" duration="1169000" />
+      <workItem from="1671180382207" duration="6946000" />
+      <workItem from="1671276594222" duration="18096000" />
+      <workItem from="1671376942687" duration="13655000" />
+      <workItem from="1671467192619" duration="1330000" />
+      <workItem from="1671468580923" duration="14138000" />
+      <workItem from="1671788224968" duration="19573000" />
+      <workItem from="1672145075275" duration="21000" />
+      <workItem from="1672308445864" duration="1930000" />
+      <workItem from="1673002039378" duration="2064000" />
+      <workItem from="1678695680391" duration="2973000" />
+      <workItem from="1678710650581" duration="821000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/src/components/RegistrationForm.js</url>
+          <line>115</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
